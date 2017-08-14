@@ -1,2 +1,2 @@
-# vbulletin
-Paymentwall Integration Module for vBulletin
+# Installation
+To install Paymentwall’s vBullentin plug-in, please follow the [instructions](https://docs.paymentwall.com/modules/vbulletin).
